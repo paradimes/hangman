@@ -37,9 +37,9 @@ type KeyboardProps = {
 };
 
 const defaultStyles =
-  "w-full border-2 border-black bg-none aspect-square text-4xl uppercase p-2 font-bold cursor-pointer text-black enabled:hover:bg-violet-300 enabled:focus:bg-violet-500 enabled:focus:text-white";
+  "w-full border-2 border-black bg-none aspect-square text-4xl uppercase p-2 font-bold cursor-pointer text-black enabled:hover:bg-slate-400 enabled:focus:bg-slate-600 enabled:focus:text-white";
 
-const activeStyles = "bg-violet-700 text-white ";
+const activeStyles = "bg-slate-900 text-white ";
 
 const inactiveStyles = "opacity-30";
 

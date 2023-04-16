@@ -1,27 +1,27 @@
 import React from "react";
 
 const HEAD = (
-  <div className="absolute top-[50px] right-[-20px] rounded-full w-[50px] h-[50px] border-[10px] border-gray-500 " />
+  <div className="absolute top-[50px] right-[-20px] rounded-full w-[50px] h-[50px] border-[10px] border-sky-800 " />
 );
 
 const BODY = (
-  <div className="absolute top-[100px] right-[0] w-[10px] h-[100px] bg-gray-500" />
+  <div className="absolute top-[100px] right-[0] w-[10px] h-[100px] bg-sky-800" />
 );
 
 const RIGHT_ARM = (
-  <div className="absolute rotate-[-30deg] top-[150px] right-[-100px] w-[100px] h-[10px] bg-gray-500 origin-bottom-left" />
+  <div className="absolute rotate-[-30deg] top-[150px] right-[-100px] w-[100px] h-[10px] bg-sky-800 origin-bottom-left" />
 );
 
 const LEFT_ARM = (
-  <div className="absolute rotate-[30deg] top-[150px] right-[10px] w-[100px] h-[10px] bg-gray-500 origin-bottom-right" />
+  <div className="absolute rotate-[30deg] top-[150px] right-[10px] w-[100px] h-[10px] bg-sky-800 origin-bottom-right" />
 );
 
 const RIGHT_LEG = (
-  <div className="absolute rotate-[60deg] top-[190px] right-[-90px] w-[100px] h-[10px] bg-gray-500 origin-bottom-left" />
+  <div className="absolute rotate-[60deg] top-[190px] right-[-90px] w-[100px] h-[10px] bg-sky-800 origin-bottom-left" />
 );
 
 const LEFT_LEG = (
-  <div className="absolute rotate-[-60deg] top-[190px] right-[0px] w-[100px] h-[10px] bg-gray-500 origin-bottom-right" />
+  <div className="absolute rotate-[-60deg] top-[190px] right-[0px] w-[100px] h-[10px] bg-sky-800 origin-bottom-right" />
 );
 
 type HangmanDrawingProps = {
