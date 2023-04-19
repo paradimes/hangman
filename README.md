@@ -3,6 +3,8 @@ a game in which the player tries to guess the letters of a word, and failed atte
 
 
 built with vite + react + typescript. 
+styled with tailwind css.
+merriam-webster dictionary api for definitions.
 
 installation instructions to get up and running: 
 1) clone this repository
