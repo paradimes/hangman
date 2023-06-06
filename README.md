@@ -18,7 +18,7 @@ Please follow the steps at https://dictionaryapi.com/ to get setup with an API k
 ![Default](./images/Default.png)
 ![Show Hint](./images/showHint.png)
 ![Try Again](./images/Loser.png)
-![Winner](./images/Winner.png)
+![Winner](./images/winner.png)
 
 
 
